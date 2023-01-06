@@ -29,6 +29,6 @@ https://github.com/[DanTeixeira87]/[senai-versoes-colaboracoes].git
 ---
 ## 🔮 Funcionalidades Futuras
 - [x] A
-- [ ] B
-- [ ] C
+- [X] B
+- [X] C
 ---
