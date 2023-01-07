@@ -32,4 +32,7 @@ https://github.com/[DanTeixeira87]/[senai-versoes-colaboracoes].git
 - [X] B
 - [X] C
 ---
+
 ### NOVOS TESTES DE COMMIT PARA ENTENDER VERSIONAMENTO
+## Lembrei do comando: Git Status bora!!!
+
