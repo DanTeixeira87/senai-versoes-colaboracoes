@@ -32,3 +32,5 @@ https://github.com/[DanTeixeira87]/[senai-versoes-colaboracoes].git
 - [X] B
 - [X] C
 ---
+
+## Lembrei do comando: Git Status bora!!!
